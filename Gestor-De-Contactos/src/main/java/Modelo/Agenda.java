@@ -4,12 +4,13 @@
  */
 package Modelo;
 import java.util.ArrayList;
+
 /**
  *
- * @author daniel
+ * @author usuario
  */
 public class Agenda {
-    
+
     private ArrayList<Contacto> contactos;
 
     public Agenda() {
@@ -36,5 +37,4 @@ public class Agenda {
         }
         return null;
     }
-    
 }
