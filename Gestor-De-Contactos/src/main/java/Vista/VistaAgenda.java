@@ -6,7 +6,7 @@ package Vista;
 
 /**
  *
- * @author usuario
+ * @author daniel
  */
 public class VistaAgenda extends javax.swing.JFrame {
     
